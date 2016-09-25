@@ -1,0 +1,164 @@
+body{
+	background-image: url("wp7.jpeg");
+		
+	background-size:100% 100%;
+	
+}
+span{
+	text-decoration: none;
+}
+
+#topbar{
+	width:100%;
+	height:70px;
+	color:white;
+	font-family:AR ESSENCE,Book Antiqua;
+	background-color:#777a6d;
+	opacity:0.9;
+	font-size:2.8em;
+}
+#tab{
+	background-color:white;
+}
+
+.acc{
+	width:250px;
+	height:550px;
+	/*transition-property: border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+	transition-delay:0s;*/
+    border-radius:14px;
+	
+}
+.acc h3{
+	text-align:center;
+	padding:10px;
+}
+/*
+.acc:hover{
+	
+	box-shadow: 10px 10px 5px #888888;
+	border-radius:0;
+}*/
+th{
+	font-family:Centaur;
+	font-size:1.2em;
+}
+#b1{
+
+	float:left; 
+	color:white;
+	background-image: url("htc1.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b1:hover{
+	background-image: url("htc2.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b2{
+	
+	float:left; 
+	color:white;
+	background-image: url("xperiaz3compact.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	border:1px dashed grey;
+}
+#b2:hover{
+	background-image: url("xperiaz3compact2.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b3{
+
+	float:left; 
+	color:white;
+	background-image: url("samsung1.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	border:1px dashed grey;
+	
+}
+#b3:hover{
+	background-image: url("samsung2.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b4{
+	
+	float:left; 
+	color:white;
+	background-image: url("note1.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b4:hover{
+	background-image: url("note2.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	background-size:100% 100%;
+}
+#b5{
+	
+	float:left; 
+	color:white;
+	background-image: url("xperia1.png");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b5:hover{
+	background-image: url("xperia2.png");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b6{
+
+	float:left; 
+	color:white;
+	background-image: url("htca1.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b6:hover{
+	background-image: url("htca2.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b7{
+
+	float:left; 
+	color:white;
+	background-image: url("iphone1.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b7:hover{
+	background-image: url("iphone2.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b8{
+
+	float:left; 
+	color:white;
+	background-image: url("nexus1.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b8:hover{
+	background-image: url("nexus2.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#bottombar{
+	background-image: url("footer4.png");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+/*	position:absolute;*/
+/*	bottom:0;*/
+	width:100%;
+	height:150px;
+}

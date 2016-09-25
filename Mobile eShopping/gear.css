@@ -1,0 +1,55 @@
+body{
+	background-image: url("wp.jpeg");
+}
+.gear{
+	
+	width:400px;
+	height:350px;
+	float:left;
+}
+.gear img{
+	width:280px;
+	height:220px;
+}
+.gear:hover{
+	position: relative;
+    top: 10px;
+}
+td div p{
+	font-size:1.1em;
+	font-family:Trebuchet MS;
+}
+td{
+	background-color:white;
+	text-align:center;
+	padding: 25px;
+}
+
+#topbar{
+	background-color:#3a434a;
+	color:white;
+	text-align:left;
+	font-family:Trebuchet MS;
+	font-size:50px;
+	position:absolute;
+	top:0;
+	width:100%;
+	
+}
+#topimg{
+	background-image: url("wearable4.png");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	height:900px;
+}
+
+#bottombar{
+	background-image: url("footer4.png");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+/*	position:absolute;*/
+/*	bottom:0;*/
+	width:100%;
+	height:150px;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>EShop!</title>
+	<link type="text/css" rel="stylesheet" href="shop.css">
+</head>
+<body>
+   <div style="background-color:black">
+	<div id="b1" class="box" ><center><h1>Phones</h1>	
+	</div>
+	<div id="b2" class="box" ><center><h1>Tablets</h1>		
+	</div>
+	<div id="b3" class="box" ><center><h1>Laptops</h1>		
+	</div>
+	<div id="b4" class="box" ><center><h1>Mobile accessories</h1>		
+	</div>
+	<div id="b5" class="box" ><center><h1>Smart watch</h1>		
+	</div>
+	<div id="b6" class="box" ><center><h1>Smart glass</h1>		
+	</div>
+   </div>
+
+</body>
+</html>

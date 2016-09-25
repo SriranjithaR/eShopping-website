@@ -1,0 +1,64 @@
+div{
+
+	width:500px;
+	height:150px;
+}
+h1{
+	font-family:Papyrus;
+}
+
+.box {
+  background: #2db34a;
+  cursor: pointer;
+  width:445px;
+  height:200px;
+  line-height: 95px;
+  vertical-align: text-bottom;
+  text-align: right;
+  transition-property:border-radius,background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+ /** margin:auto;**/
+
+}
+.box:hover {
+  background: #ff7b29;
+  border-top-right-radius:70%;
+}
+
+#b1{
+	float:right;
+	background-color:#ff8100;
+}
+#b2{
+	float:right;
+	background-image: url("ipad.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b3{
+	float:right;
+	background-image: url("mac2.jpeg");
+	background-size:100% 100%;
+}
+#b4{
+	float:right;
+	background-image: url("acc2.jpg");
+	background-size:100% 100%;
+}
+#b5{
+	float:right;
+	background-image: url("iwatch6.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b6{
+	float:right;
+	background-image: url("glass3.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+
+.topDiv{
+	background-color:#000000;	
+}
